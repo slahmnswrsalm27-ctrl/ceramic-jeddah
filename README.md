@@ -196,4 +196,44 @@ header p {
   </div>
 
   <div class="features">
-    <div class="feature-box">فني
+    <div class="feature-box">فني تركيب سيراميك</div>
+    <div class="feature-box">معلم سيراميك وبورسلين</div>
+    <div class="feature-box">تركيب سيراميك</div>
+    <div class="feature-box">تركيب سلابات</div>
+  </div>
+
+  <div class="card offer-card">
+    <div class="card-title">طلب تسعيرة ومعاينة فورية بجدة</div>
+    <div class="card-text">
+      وفر وقتك وصور مكان الشغل وأرسل الصور على الواتساب أو اتصل بنا الآن لمعرفة التكلفة وحجز أقرب موعد للمعاينة مع استلام الشغل بأعلى جودة ليزر واستواء كامل
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="card-title">معرض أعمال تركيب السيراميك والبورسلين</div>
+    <a class="img-link" href="https://wa.me/966561201914?text=%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85%20%D8%B9%D9%84%D9%8A%D9%83%D9%85%20%D8%B9%D9%86%D8%AF%D9%8A%20%D8%B4%D8%BA%D9%84%20%D8%AA%D8%B1%D9%83%D9%8A%D8%A8%20%D8%B3%D9%8A%D8%B1%D8%A7%D9%85%D9%8A%D9%83%20%D9%88%D8%A8%D9%88%D8%B1%D8%B3%D9%84%D9%8A%D9%86%20%D9%81%D9%8A%20%D8%AC%D8%AF%D8%A9%20%D9%88%D8%A3%D8%B1%D9%8A%D8%AF%20%D9%85%D8%B9%D8%B1%D9%81%D8%A9%20%D8%A7%D9%84%D8%AA%D9%83%D9%84%D9%81%D8%A9%20%D9%88%D8%A3%D9%82%D8%B1%D8%A8%20%D9%85%D9%88%D8%B9%D8%AF%20%D9%84%D9%84%D9%85%D8%B9%D8%A7%D9%8A%D9%86%D8%A9" target="_blank">
+      <img class="img-responsive" src="IMG-20261009-WA0002.jpg" alt="معلم تركيب سيراميك بجدة شغل احترافي" loading="lazy" decoding="async">
+    </a>
+    <a class="img-link" href="https://wa.me/966561201914?text=%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85%20%D8%B9%D9%84%D9%8A%D9%83%D9%85%20%D8%B9%D9%86%D8%AF%D9%8A%20%D8%B4%D8%BA%D9%84%20%D8%AA%D8%B1%D9%83%D9%8A%D8%A8%20%D8%B3%D9%8A%D8%B1%D8%A7%D9%85%D9%8A%D9%83%20%D9%88%D8%A8%D9%88%D8%B1%D8%B3%D9%84%D9%8A%D9%86%20%D9%81%D9%8A%20%D8%AC%D8%AF%D8%A9%20%D9%88%D8%A3%D8%B1%D9%8A%D8%AF%20%D9%85%D8%B9%D8%B1%D9%81%D8%A9%20%D8%A7%D9%84%D8%AA%D9%83%D9%84%D9%81%D8%A9%20%D9%88%D8%A3%D9%82%D8%B1%D8%A8%20%D9%85%D9%88%D8%B9%D8%AF%20%D9%84%D9%84%D9%85%D8%B9%D8%A7%D9%8A%D9%86%D8%A9" target="_blank">
+      <img class="img-responsive" src="IMG-20261009-WA0003.jpg" alt="فني تركيب بورسلين ورخام بجدة" loading="lazy" decoding="async">
+    </a>
+  </div>
+
+  <div class="seo-text">
+    <h2>خدمات تركيب السيراميك والبورسلين في جدة</h2>
+    <p>نقدم خدمات تركيب السيراميك والبورسلين والرخام وقص السلابات الكبيرة بجدة بأحدث أجهزة الليزر لضمان الاستواء التام والتنفيذ الدقيق للأرضيات والجدران والمطابخ والحمامات والمسابح والمداخل داخل جدة بأفضل الأسعار وأعلى جودة تسليم</p>
+  </div>
+
+</div>
+
+<div class="floating-bar">
+  <a class="btn btn-whatsapp" href="https://wa.me/966561201914?text=%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85%20%D8%B9%D9%84%D9%8A%D9%83%D9%85%20%D8%B9%D9%86%D8%AF%D9%8A%20%D8%B4%D8%BA%D9%84%20%D8%AA%D8%B1%D9%83%D9%8A%D8%A8%20%D8%B3%D9%8A%D8%B1%D8%A7%D9%85%D9%8A%D9%83%20%D9%88%D8%A8%D9%88%D8%B1%D8%B3%D9%84%D9%8A%D9%86%20%D9%81%D9%8A%20%D8%AC%D8%AF%D8%A9%20%D9%88%D8%A3%D8%B1%D9%8A%D8%AF%20%D9%85%D8%B9%D8%B1%D9%81%D8%A9%20%D8%A7%D9%84%D8%AA%D9%83%D9%84%D9%81%D8%A9%20%D9%88%D8%A3%D9%82%D8%B1%D8%A8%20%D9%85%D9%88%D8%B9%D8%AF%20%D9%84%D9%84%D9%85%D8%B9%D8%A7%D9%8A%D9%86%D8%A9" target="_blank">
+    واتساب فوري
+  </a>
+  <a class="btn btn-call" href="tel:0561201914">
+    اتصال مباشر
+  </a>
+</div>
+
+</body>
+</html>
